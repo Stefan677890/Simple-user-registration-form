@@ -68,11 +68,11 @@
             // Error
             // 
             Error.AutoSize = true;
-            Error.Font = new Font("Segoe UI", 20F);
+            Error.Font = new Font("Segoe UI", 18F);
             Error.ForeColor = Color.Red;
-            Error.Location = new Point(178, 304);
+            Error.Location = new Point(65, 306);
             Error.Name = "Error";
-            Error.Size = new Size(0, 37);
+            Error.Size = new Size(0, 32);
             Error.TabIndex = 3;
             // 
             // label2
@@ -115,6 +115,7 @@
             DELETE.TabIndex = 9;
             DELETE.Text = "Delete";
             DELETE.UseVisualStyleBackColor = true;
+            DELETE.Click += Delete_Click;
             // 
             // Save
             // 
@@ -125,6 +126,7 @@
             Save.TabIndex = 10;
             Save.Text = "Save";
             Save.UseVisualStyleBackColor = true;
+            Save.Click += Save_Click;
             // 
             // label4
             // 

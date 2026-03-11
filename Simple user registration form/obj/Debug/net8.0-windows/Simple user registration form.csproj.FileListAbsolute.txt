@@ -1,0 +1,16 @@
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\obj\Debug\net8.0-windows\Simple_user_registration_form.Form1.resources
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\obj\Debug\net8.0-windows\Simple user registration form.csproj.GenerateResource.cache
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\obj\Debug\net8.0-windows\Simple user registration form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\obj\Debug\net8.0-windows\Simple user registration form.AssemblyInfoInputs.cache
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\obj\Debug\net8.0-windows\Simple user registration form.AssemblyInfo.cs
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\obj\Debug\net8.0-windows\Simple user registration form.csproj.CoreCompileInputs.cache
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\bin\Debug\net8.0-windows\Simple user registration form.exe
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\bin\Debug\net8.0-windows\Simple user registration form.deps.json
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\bin\Debug\net8.0-windows\Simple user registration form.runtimeconfig.json
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\bin\Debug\net8.0-windows\Simple user registration form.dll
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\bin\Debug\net8.0-windows\Simple user registration form.pdb
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\obj\Debug\net8.0-windows\Simple user registration form.dll
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\obj\Debug\net8.0-windows\refint\Simple user registration form.dll
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\obj\Debug\net8.0-windows\Simple user registration form.pdb
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\obj\Debug\net8.0-windows\Simple user registration form.genruntimeconfig.cache
+C:\Users\szymo\source\repos\Simple user registration form\Simple user registration form\obj\Debug\net8.0-windows\ref\Simple user registration form.dll
